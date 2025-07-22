@@ -71,7 +71,9 @@
 ### 🗂️ Projects Showcase:
 - **🌳 Lenient Tree** – Frontend Project (React)
 - **🏢 Hostel Management System** – Full Stack Project
+- **🍔 Food Delivery Website** – created using Mern stack
 - **💊 HEAL-PD** – Ongoing AI & Healthcare App
+
 
 ---
 
