@@ -70,7 +70,7 @@
 ### 🗂️ Projects Showcase:
 - **🌳 Lenient Tree** – Frontend Project (React)
 - **🏢 Hostel Management System** – Full Stack Project
-- **💊 HEAL-PD** – AI & Healthcare App is ongoing
+- **💊 HEAL-PD** – Ongoing AI & Healthcare App
 
 ---
 
