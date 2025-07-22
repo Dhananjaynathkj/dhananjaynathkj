@@ -49,7 +49,7 @@
 ---
 
 ### 🧠 Currently Learning:
-- Advanced DSA in Python
+- DSA in Python
 - React JS and Full Stack Development
 - Ethical Hacking and Cybersecurity
 
