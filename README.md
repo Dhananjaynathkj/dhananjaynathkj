@@ -23,7 +23,7 @@
 ### 📈 GitHub Stats & Activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhananjaynathkj&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaynathkj&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
