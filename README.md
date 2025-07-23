@@ -1,80 +1,64 @@
-<h1 align="center">Hi 👋, I'm DHANANJAYNATH K J</h1>
-<h3 align="center">🎓 CSE Student at MEC | 💻 Open Source Enthusiast | 🌐 Exploring Python, Web Development & DSA</h3>
+<h1 align="center"> Hello, I'm Dhananjaynath K J</h1>
+<h3 align="center">🌟 CSE Student at MEC | 💡 Tech Explorer | 💻 Code & Creativity Enthusiast</h3>
 
 ---
 
-### 🧰 Tech Stack & Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-</p>
-
+### 🧑‍💻 About Me
+I'm a Computer Science Engineering student at Govt. Model Engineering College (MEC).  
+I'm passionate about building impactful projects, learning cutting-edge technologies, and solving real-world problems with code.
 
 ---
 
-### 📈 GitHub Stats & Activity:
+### 🧰 Tech Toolbox
 
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaynathkj&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhananjaynathkj&theme=radical&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
+| Languages         | Frameworks & Libraries        | Tools & Platforms         |
+|------------------|-------------------------------|---------------------------|
+| Python, C, JavaScript | React, Flutter, Express       | Git, GitHub, VS Code, Figma |
+| HTML5, CSS3       | Node.js, MongoDB              | Linux, Firebase, Postman  |
 
 ---
 
-### 📫 Connect with Me:
+### 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhananjaynath-k-j-50845831b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:dhananjaynathkj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://dhananjay-8ilw.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=about-dot-me" />
-  </a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjaynathkj&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dhananjaynathkj&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhananjaynathkj&show_icons=true&theme=radical)
 
 ---
 
-### 🧠 Currently Learning:
-- DSA in Python
-- React JS and Full Stack Development
-- Flutter for App Development
+### 📚 Currently Learning
+- ✅ DSA using Python
+- ✅ React JS and Full Stack Development (MERN Stack)
+- ✅ Flutter for Cross-Platform Mobile Apps
 
 ---
 
-### 💡 Fun Fact:
-> “I'm not a great programmer; I'm just a good programmer with great habits.” – Kent Beck
+### 🚀 Projects Showcase
+
+- 🌿 **Lenient Tree** – A frontend web application built with React  
+- 🏢 **Hostel Management System** – Full Stack Web App for Hostel Admins  
+- 🍔 **Food Delivery Website** – MERN Stack App for ordering & delivery  
+- 💊 **HEAL-PD** – Final Year AI & Healthcare project (under development)
 
 ---
 
-### 🚀 Visitor Counter:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhananjaynathkj&label=Profile%20views&color=brightgreen&style=flat" alt="profile views"/>
-</p>
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square)](https://your-portfolio-link)
 
 ---
 
-### 🗂️ Projects Showcase:
-- **🌳 Lenient Tree** – Frontend Project (React)
-- **🏢 Hostel Management System** – Full Stack Project
-- **🍔 Food Delivery Website** – created using Mern stack
-- **💊 HEAL-PD** – Ongoing AI & Healthcare based final year project.
-
+### 💡 Fun Fact
+> "I'm not a great programmer; I'm just a good programmer with great habits." — Kent Beck
 
 ---
 
-> ✨ *Thanks for visiting my profile! Let’s build something amazing together!* 🚀
+### 🛰 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Dhananjaynathkj&style=flat&color=brightgreen)
+
+---
+
+✨ _Thanks for visit my GitHub profile.
