@@ -16,15 +16,7 @@ I'm passionate about building impactful projects, learning cutting-edge technolo
 | Python, C, JavaScript | React, Flutter, Express       | Git, GitHub, VS Code, Figma |
 | HTML5, CSS3       | Node.js, MongoDB              | Linux, Firebase, Postman  |
 
----
 
-### 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjaynathkj&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Dhananjaynathkj&theme=radical&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhananjaynathkj&show_icons=true&theme=radical)
-
----
 
 ### 📚 Currently Learning
 - ✅ DSA using Python
