@@ -46,7 +46,7 @@ I'm passionate about building impactful projects, learning cutting-edge technolo
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhananjaynath-k-j-50845831b/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square)](https://dhananjaynathkjportfolio.onrender.com)
 
