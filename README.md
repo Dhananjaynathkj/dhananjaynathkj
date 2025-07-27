@@ -29,18 +29,14 @@ I'm passionate about building impactful projects, learning cutting-edge technolo
 
 - 🌳 **Lenient Tree**  
   *Frontend web application* built using React.js for dynamic and responsive UI development.
-
-- ✋ **Gestura**  
-  *Sign Language Recognition system* that translates sign language gestures into text or speech, enhancing accessibility.
-
-- 🏢 **Hostel Management System**  
-  *Full-stack web application* to manage hostel room allocations, fee tracking, and student records. .
-
 - 🍔 **Numvy**  
   A complete **MERN Stack food ordering and delivery app** with admin and user dashboards, cart, order tracking, and secure authentication.
-
+- ✋ **Gestura**  
+  *Sign Language Recognition system* that translates sign language gestures into text or speech, enhancing accessibility.
+- 🏢 **Hostel Management System**  
+  *Full-stack web application* to manage hostel room allocations, fee tracking, and student records. .
 - 💊 **HEAL-PD** *(in progress)*  
-  An **AI + Healthcare final year project** focusing on intelligent diagnosis and treatment tracking for Parkinson’s Disease.
+  An **AI + Healthcare final year project** used federated learning and homomorphic encryption in Parkinson's disease.
 
 ---
 
