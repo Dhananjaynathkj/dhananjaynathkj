@@ -13,7 +13,7 @@ I'm passionate about building impactful projects, learning cutting-edge technolo
 
 | Languages         | Frameworks & Libraries        | Tools & Platforms         |
 |------------------|-------------------------------|---------------------------|
-| Python, C, JavaScript | React, Flutter,        | Git, GitHub, VS Code, Figma |
+| Python,JavaScript | React                   | Git, GitHub, VS Code      |
 | HTML5, CSS3       |                             | Linux, Firebase, Postman  |
 
 
