@@ -21,7 +21,7 @@ I'm passionate about building impactful projects, learning cutting-edge technolo
 ### 📚 Currently Learning
 - ✅ DSA using Python
 - ✅ React JS and Full Stack Development (MERN Stack)
-- ✅ Flutter for Cross-Platform Mobile Apps
+
 
 ---
 
