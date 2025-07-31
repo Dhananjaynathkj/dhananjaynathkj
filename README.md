@@ -5,25 +5,10 @@
 
 ### 🧑‍💻 About Me
 I'm a Computer Science Engineering student at Govt. Model Engineering College (MEC).  
-I'm passionate about building impactful projects, learning cutting-edge technologies, and solving real-world problems with code.
+I'm passionate about building impactful projects, learning cutting-edge technologies.
 
 ---
 
-### 🧰 Tech Toolbox
-
-| Languages         | Frameworks & Libraries        | Tools & Platforms         |
-|------------------|-------------------------------|---------------------------|
-| Python,JavaScript | React                   | Git, GitHub, VS Code      |
-| HTML5, CSS3       |                             | Linux, Firebase, Postman  |
-
-
-
-### 📚 Currently Learning
-- ✅ DSA using Python
-- ✅ React JS and Full Stack Development (MERN Stack)
-
-
----
 
 ### 🚀 Projects Showcase
 
@@ -46,10 +31,7 @@ I'm passionate about building impactful projects, learning cutting-edge technolo
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mail)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square)](https://dhananjaynathkjportfolio.onrender.com)
 
----
 
-### 💡 Fun Fact
-> "I'm not a great programmer; I'm just a good programmer with great habits." — Kent Beck
 
 ---
 
