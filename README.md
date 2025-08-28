@@ -12,8 +12,6 @@ I'm passionate about building impactful projects, learning cutting-edge technolo
 
 ### 🚀 Projects Showcase
 
-- 🌳 **Lenient Tree**  
-  *Frontend web application* built using React.js for dynamic and responsive UI development.
 - 🍔 **Numvy**  
   A complete **MERN Stack food ordering and delivery app** with admin and user dashboards, cart, order tracking, and secure authentication.
 - ✋ **Gestura**  
