@@ -12,8 +12,6 @@ I'm passionate about building impactful projects, learning cutting-edge technolo
 
 ### 🚀 Projects Showcase
 
-- 🍔 **Numvy**  
-  A complete **MERN Stack food ordering and delivery app** with admin and user dashboards, cart, order tracking, and secure authentication.
 - ✋ **Gestura**  
   *Sign Language Recognition system* that translates sign language gestures into text or speech, enhancing accessibility.
 - 🏢 **Hostel Management System**  
