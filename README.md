@@ -5,29 +5,28 @@
 
 ### 🧑‍💻 About Me
 I'm a Computer Science Engineering student at Govt. Model Engineering College (MEC).  
-I'm passionate about building impactful projects, learning cutting-edge technologies.
+I'm passionate about building impactful projects and learning cutting-edge technologies.
 
 ---
 
-
 ### 🚀 Projects Showcase
 
+- 🍽️ **Numvy**  
+  Played a key role in developing **Numvy**, a food ordering website featuring efficient order management, secure payment integration, and a seamless user experience — **deployed on Render**.
+
 - ✋ **Gestura**  
-  *Sign Language Recognition system* that translates sign language gestures into text or speech, enhancing accessibility.
-- 🏢 **Hostel Management System**  
-  *Full-stack web application* to manage hostel room allocations, fee tracking, and student records. .
-- 💊 **HEAL-PD** *(in progress)*  
-  An **AI + Healthcare final year project** used federated learning and homomorphic encryption in Parkinson's disease.
+  Developed a system that translates sign language gestures into text or speech, enhancing accessibility for individuals with hearing or speech impairments.
+
+- 💊 **HEAL-PD** *(In Progress)*  
+  An **AI + Healthcare final year project** leveraging **Federated Learning** and **Homomorphic Encryption** for privacy-preserving Parkinson’s disease diagnosis and prediction.
 
 ---
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhananjaynath-k-j-50845831b/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhananjaynath-k-j-50845831b/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square)](https://dhananjaynathkjportfolio.onrender.com)
-
-
 
 ---
 
@@ -37,4 +36,4 @@ I'm passionate about building impactful projects, learning cutting-edge technolo
 
 ---
 
-✨ _Thanks for visit my GitHub profile.
+✨ _Thanks for visiting my GitHub profile!_
