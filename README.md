@@ -11,9 +11,6 @@ I'm passionate about building impactful projects and learning cutting-edge techn
 
 ### 🚀 Projects Showcase
 
-- 🍽️ **Numvy**  
-  Played a key role in developing **Numvy**, a food ordering website featuring efficient order management, secure payment integration, and a seamless user experience — **deployed on Render**.
-
 - ✋ **Gestura**  
   Developed a system that translates sign language gestures into text or speech, enhancing accessibility for individuals with hearing or speech impairments.
 
@@ -26,7 +23,7 @@ I'm passionate about building impactful projects and learning cutting-edge techn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhananjaynath-k-j-50845831b/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square)](https://dhananjaynathkjkjkjkjportfolio-main.onrender.com/)
+
 
 ---
 
