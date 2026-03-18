@@ -11,13 +11,7 @@ I'm passionate about building impactful projects and learning cutting-edge techn
 
 ### 🚀 Projects Showcase
 
-- ✋ **Gestura**  
-  Developed a system that translates sign language gestures into text or speech, enhancing accessibility for individuals with hearing or speech impairments.
 
-- 💊 **HEAL-PD** *(In Progress)*  
-  An **AI + Healthcare final year project** leveraging **Federated Learning** and **Homomorphic Encryption** for privacy-preserving Parkinson’s disease diagnosis and prediction.
-
----
 
 ### 📬 Connect With Me
 
