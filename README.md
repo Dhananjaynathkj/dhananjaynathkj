@@ -9,10 +9,6 @@ I'm passionate about building impactful projects and learning cutting-edge techn
 
 ---
 
-### 🚀 Projects Showcase
-
-
-
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhananjaynath-k-j-50845831b/)  
