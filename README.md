@@ -4,7 +4,7 @@
 ---
 
 ### 🧑‍💻 About Me
-I'm a Computer Science Engineering student at Govt. Model Engineering College (MEC).  
+I'm a Computer Science Engineering Graduate at Govt. Model Engineering College (MEC).  
 I'm passionate about building impactful projects and learning cutting-edge technologies.
 
 ---
