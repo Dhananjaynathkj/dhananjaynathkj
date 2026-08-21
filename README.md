@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Dhananjaynath K J</h1>
-<h3 align="center">🌟 CSE Student at MEC | 💡 Tech Explorer | 💻 Code & Creativity Enthusiast</h3>
+<h3 align="center">🌟 CSE Graduate from MEC | 💡 Tech Explorer | 💻 Code & Creativity Enthusiast</h3>
 
 ---
 
